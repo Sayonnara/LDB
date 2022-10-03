@@ -1,7 +1,8 @@
 # LDB Projeto
-
 ## Olá! Bem vindo(a) meu projeto 😉
 
+## User Story 
+Para todos os usuários que queiram criar,enviar,receber,editar,ler seus documentos na palma da mão ou em qualquer lugar que tenha uma internet.
 
 **Diagrama de Classe**
 
