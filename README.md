@@ -2,7 +2,7 @@
 
 # Olá! Bem vindo(a) meu projeto 😉
 **Diagrama de Classe**
-<imagsrc
+<img src="imagem.jpg">
 User story
 Requistos
 
