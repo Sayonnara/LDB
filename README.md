@@ -1,7 +1,7 @@
 # LDB
 Projeto
 
-#  Livro de Receitas 😃:
+#  Livro de Receitas 😃
 
 
 
