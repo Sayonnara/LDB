@@ -2,7 +2,7 @@
 ## Olá! Bem vindo(a) ao meu projeto 😉
 
 ## User Story 
-Para todos os usuários que queiram criar,enviar,receber,editar,ler seus documentos na palma da mão ou em qualquer lugar que tenha uma internet.
+Para todos os usuários que queiram criar,enviar,receber,editar,ler seus documentos.
 
 **Diagrama de Classe**
 
