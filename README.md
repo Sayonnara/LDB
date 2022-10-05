@@ -6,7 +6,7 @@ Para todos os usuários que queiram criar,enviar,receber,editar,ler seus documen
 
 **Diagrama de Classe**
 
-![Diagrama de Classe](https://github.com/Sayonnara/LDB/blob/main/Main.jpg)
+![Diagrama de Classe](https://github.com/Sayonnara/LDB/blob/main/Diagrama-de-Classe.png)
 
 
 **Entidade e Relacionamento-Objeto**
